@@ -1,9 +1,5 @@
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.web.page.DashboardPage;
-import ru.netology.web.page.LoginPage;
-import ru.netology.web.page.TransgerPage;
-import ru.netology.web.page.VerificationPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertEquals;
